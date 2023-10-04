@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "911352BF-3EC6-4F91-A648-DD97609286D6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3922A63A-0FB4-4F70-BFB6-65E1345BDA66"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Coordinators/ModulesCoordinator/TabBarCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init(navigationController:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3922A63A-0FB4-4F70-BFB6-65E1345BDA66 - dc83b1939446e0e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.TabBarCoordinator.init(navigationController: __C.UINavigationController) -&gt; PhotoExplorer.TabBarCoordinator"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/Coordinators/ModulesCoordinator/TabBarCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "91">
+               </Location>
+               <Location
+                  uuid = "3922A63A-0FB4-4F70-BFB6-65E1345BDA66 - dc83b1939446e0c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.TabBarCoordinator.init(navigationController: __C.UINavigationController) -&gt; PhotoExplorer.TabBarCoordinator"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/Coordinators/ModulesCoordinator/TabBarCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "91">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82130C30-542B-4445-AF5C-52E81F097DB5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/TabBarController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97A8995D-EE35-4D90-AAFE-1871B65601A5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Coordinators/Factory/ModulesFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "createTabBarModule()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1034A2E6-D807-4994-AB4D-F34F1DB63E6F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Coordinators/Factory/ModulesFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "createInspirationModule()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE1FF848-A943-4ED3-9E1A-D9C2FC905F8F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Coordinators/Factory/ModulesFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "createFavoriteModule()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DC9F14B-AE20-4D43-AA82-B4BA4DEA6FA9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Coordinators/Factory/CoordinatorsFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "createTabBarCoordinator()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4BA829AA-09F3-4B34-AF01-29814A5C66FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "4BA829AA-09F3-4B34-AF01-29814A5C66FB - 7f7a34c0fc15edd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.AppCoordinator.tabBarController.getter : __C.UITabBarController"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "170">
+               </Location>
+               <Location
+                  uuid = "4BA829AA-09F3-4B34-AF01-29814A5C66FB - 67bd757feeb2f5c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.AppCoordinator.tabBarController.setter : __C.UITabBarController"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B4351FC-760F-45EE-8999-D7A2FB277046"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "2B4351FC-760F-45EE-8999-D7A2FB277046 - 2c8663e26596f199"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.AppCoordinator.navigationControllers.getter : Swift.Dictionary&lt;PhotoExplorer.NavigationCotrollersType, __C.UINavigationController&gt;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "167">
+               </Location>
+               <Location
+                  uuid = "2B4351FC-760F-45EE-8999-D7A2FB277046 - 2c8663e26596f199"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.AppCoordinator.navigationControllers.setter : Swift.Dictionary&lt;PhotoExplorer.NavigationCotrollersType, __C.UINavigationController&gt;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F208146-B7D6-43F6-93B7-29F3EE07DFE5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9DB9912-CE61-46C7-9DCA-7201A11ECD49"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "E9DB9912-CE61-46C7-9DCA-7201A11ECD49 - 661055a14c02a358"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.AppCoordinator.__allocating_init(window: __C.UIWindow) -&gt; PhotoExplorer.AppCoordinator"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  uuid = "E9DB9912-CE61-46C7-9DCA-7201A11ECD49 - 6599e73676ca36b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.AppCoordinator.init(window: __C.UIWindow) -&gt; PhotoExplorer.AppCoordinator"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "66">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9ACE2412-6AF6-4205-B044-118320E42793"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34C82A59-6F91-40BA-B368-311EB8958744"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16876783-D9E3-4A86-9558-822B1209319B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "16876783-D9E3-4A86-9558-822B1209319B - 14e9ae62c2cb154e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.AppCoordinator.start() -&gt; ()"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "16876783-D9E3-4A86-9558-822B1209319B - 33debdf4861be5e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PhotoExplorer.NavigationCotrollersType) -&gt; Swift.Optional&lt;__C.UINavigationController&gt; in PhotoExplorer.AppCoordinator.start() -&gt; ()"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "45">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9751BEF-B510-42B6-9961-07E241FDAE43"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D05069A-D610-4752-87B9-B68BF0514416"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B2AE082-B1F4-4A3E-9C02-ED5C77DD1E86"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84415401-A48D-407B-815D-E68F0C16756C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "84415401-A48D-407B-815D-E68F0C16756C - 19aa7ceff6a4079"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static PhotoExplorer.AppCoordinator.makeNavigationControllers() -&gt; Swift.Dictionary&lt;PhotoExplorer.NavigationCotrollersType, __C.UINavigationController&gt;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "84415401-A48D-407B-815D-E68F0C16756C - 2ca02bde89b76f75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PhotoExplorer.NavigationCotrollersType) -&gt; () in static PhotoExplorer.AppCoordinator.makeNavigationControllers() -&gt; Swift.Dictionary&lt;PhotoExplorer.NavigationCotrollersType, __C.UINavigationController&gt;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "79">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22442B8E-8518-49ED-9041-23AF6439BFC6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F979D29-0848-4453-A214-B6C0F70B6BBD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "200"
+            endingLineNumber = "200"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "287C04B5-9132-4BFD-9EFB-6304F9378F04"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "212"
+            endingLineNumber = "212"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D3523B7-4608-4B94-A767-DB48D14C8294"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E12BC709-3060-4213-AD69-64C9F61DB051"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "233"
+            endingLineNumber = "233"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "E12BC709-3060-4213-AD69-64C9F61DB051 - ce5bd4c2019bce8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.AppCoordinator.setupAppearanceTabBat(with: __C.UITabBarController) -&gt; ()"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  uuid = "E12BC709-3060-4213-AD69-64C9F61DB051 - 9a47ac7ed2f70670"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.AppCoordinator.setupAppearanceTabBar(with: __C.UITabBarController) -&gt; ()"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "79">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3AB5D6C-4208-4C4C-9764-B054B03138A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "259"
+            endingLineNumber = "259"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "F3AB5D6C-4208-4C4C-9764-B054B03138A7 - cb244ce4df80b4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.NavigationCotrollersType.rawValue.getter : Swift.Int"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  uuid = "F3AB5D6C-4208-4C4C-9764-B054B03138A7 - 7e933e8db17400c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.NavigationCotrollersType.init(rawValue: Swift.Int) -&gt; Swift.Optional&lt;PhotoExplorer.NavigationCotrollersType&gt;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "53">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B425D733-FB88-418D-B597-6A8757596870"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/Application/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "SceneDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - cfc303729a676b9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.appCoordinator.getter : Swift.Optional&lt;PhotoExplorer.AppCoordinator&gt;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - ec55fedb3fd38b87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.appCoordinator.setter : Swift.Optional&lt;PhotoExplorer.AppCoordinator&gt;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - 7bdf5af238e78361"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.appCoordinator.modify : Swift.Optional&lt;PhotoExplorer.AppCoordinator&gt;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - a1204f5b0d84451"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.appCoordinator.modify : Swift.Optional&lt;PhotoExplorer.AppCoordinator&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - d69b5b766688cd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.init() -&gt; PhotoExplorer.SceneDelegate"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "54">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - 5c871315f583132b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.appCoordinator.getter : Swift.Optional&lt;PhotoExplorer.AppCoordinator&gt;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/saveMe/tempExplorer/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - 7f11eebc5037f333"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.appCoordinator.setter : Swift.Optional&lt;PhotoExplorer.AppCoordinator&gt;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/saveMe/tempExplorer/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - e89b4a955703fbd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.appCoordinator.modify : Swift.Optional&lt;PhotoExplorer.AppCoordinator&gt;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/saveMe/tempExplorer/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - 99561492df3c3ce5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.appCoordinator.modify : Swift.Optional&lt;PhotoExplorer.AppCoordinator&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/saveMe/tempExplorer/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - 9e2da5d0098cf460"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.init() -&gt; PhotoExplorer.SceneDelegate"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/saveMe/tempExplorer/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "54">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - b3c57d46db8af4bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.appCoordinator.getter : Swift.Optional&lt;PhotoExplorer.AppCoordinator&gt;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/saveMe/tempExplorer/UIExpurk/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - 905380ef7e3e14a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.appCoordinator.setter : Swift.Optional&lt;PhotoExplorer.AppCoordinator&gt;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/saveMe/tempExplorer/UIExpurk/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - 7d924c6790a1c43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.appCoordinator.modify : Swift.Optional&lt;PhotoExplorer.AppCoordinator&gt;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/saveMe/tempExplorer/UIExpurk/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - 76147ac1f135db73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.appCoordinator.modify : Swift.Optional&lt;PhotoExplorer.AppCoordinator&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/saveMe/tempExplorer/UIExpurk/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - 716fcb83278513f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.init() -&gt; PhotoExplorer.SceneDelegate"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/saveMe/tempExplorer/UIExpurk/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "54">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - e5586f933185426f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.tabBarCoordinator.getter : Swift.Optional&lt;PhotoExplorer.TabBarCoordinator&gt;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/saveMe/tempExplorer/ExpDataSourceOut/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - e1746f5b694eb71b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.tabBarCoordinator.setter : Swift.Optional&lt;PhotoExplorer.TabBarCoordinator&gt;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/saveMe/tempExplorer/ExpDataSourceOut/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - 8ded426c90a7b72a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.tabBarCoordinator.modify : Swift.Optional&lt;PhotoExplorer.TabBarCoordinator&gt;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/saveMe/tempExplorer/ExpDataSourceOut/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - 3db515c0231b1606"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.tabBarCoordinator.modify : Swift.Optional&lt;PhotoExplorer.TabBarCoordinator&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/saveMe/tempExplorer/ExpDataSourceOut/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - ba6f1f54400c6a18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.init() -&gt; PhotoExplorer.SceneDelegate"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/saveMe/tempExplorer/ExpDataSourceOut/UIPhotoExplorer/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "54">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - 9d06ebe5a449fc5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.tabBarCoordinator.getter : Swift.Optional&lt;PhotoExplorer.TabBarCoordinator&gt;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/saveMe/tempExplorer/lastClean/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - 992aeb2dfc82092f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.tabBarCoordinator.setter : Swift.Optional&lt;PhotoExplorer.TabBarCoordinator&gt;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/saveMe/tempExplorer/lastClean/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - f5b3c61a056b091e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.tabBarCoordinator.modify : Swift.Optional&lt;PhotoExplorer.TabBarCoordinator&gt;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/saveMe/tempExplorer/lastClean/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - 45eb91b6b6d7a832"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.tabBarCoordinator.modify : Swift.Optional&lt;PhotoExplorer.TabBarCoordinator&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/saveMe/tempExplorer/lastClean/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "B425D733-FB88-418D-B597-6A8757596870 - c2319b22d5c0d42c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoExplorer.SceneDelegate.init() -&gt; PhotoExplorer.SceneDelegate"
+                  moduleName = "PhotoExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tx3000/Desktop/saveMe/tempExplorer/lastClean/PhotoExplorer/PhotoExplorer/Application/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "54">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE295431-93B8-4043-98FD-696583266ADA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/Application/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "scene(_:willConnectTo:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B27914BF-034E-4ECC-8EA2-B82E05D48EC4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/Application/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "scene(_:willConnectTo:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09EE9E21-11EF-4248-A53C-263DE6493E6E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/Modules/InspirationModule/InspirationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F885D374-CEEC-4E93-A9E7-28D4EF52CE5F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoExplorer/Modules/InspirationModule/InspirationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
