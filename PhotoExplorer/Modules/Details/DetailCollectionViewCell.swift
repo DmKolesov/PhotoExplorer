@@ -4,9 +4,10 @@
 //
 //  Created by TX 3000 on 12.09.2023.
 //
+
 import UIKit
 
-class DetailCollectionViewCell: UICollectionViewCell {
+final class DetailCollectionViewCell: UICollectionViewCell {
     
     private let imageView = UIImageView()
     private let authorLabel = UILabel()
@@ -24,7 +25,8 @@ class DetailCollectionViewCell: UICollectionViewCell {
         fatalError("init(coder:) has not been implemented")
     }
     
-    @objc private func likeButtonTapped() {
+    @objc
+    private func likeButtonTapped() {
         if let closure = likeButtonTappedClosure {
             let newLikedState = !likeButton.isSelected
             closure(newLikedState)
@@ -47,7 +49,7 @@ class DetailCollectionViewCell: UICollectionViewCell {
     }
 }
 
-extension DetailCollectionViewCell {
+private extension DetailCollectionViewCell {
     func setupUI() {
         setupImageView()
         setupAuthorLabel()

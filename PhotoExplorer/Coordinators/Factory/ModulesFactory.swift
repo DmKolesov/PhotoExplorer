@@ -4,6 +4,7 @@
 //
 //  Created by TX 3000 on 07.09.2023.
 //
+
 import UIKit
 
 final class ModulesFactory {
@@ -32,8 +33,7 @@ final class ModulesFactory {
         let storage: DataStorable = RealmStorage(realmService: realmService)
         let repository: DetailDataRepository = DetailRepository(storage: storage, mapper: mapper)
         var detailViewModel: DetailViewModel = DetailViewModelImplementation(repository: repository)
-        
-        // Set the delegate
+
         if let favoritesViewController = createFavoriteModule() as? FavoritesViewController {
             if let favoritesViewModel = favoritesViewController.viewModel as? FavoritesViewModelImp {
                 detailViewModel.delegate = favoritesViewModel

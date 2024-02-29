@@ -7,7 +7,7 @@
 
 import UIKit
 
-class InspirationViewCell: UICollectionViewCell {
+final class InspirationViewCell: UICollectionViewCell {
     
    private let imageView = UIImageView()
     
@@ -25,7 +25,7 @@ class InspirationViewCell: UICollectionViewCell {
     }
 }
 
-extension InspirationViewCell {
+private extension InspirationViewCell {
     func setupUI() {
         imageView.translatesAutoresizingMaskIntoConstraints = false
         contentView.addSubview(imageView)

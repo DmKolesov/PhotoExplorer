@@ -7,7 +7,7 @@
 
 import UIKit
 
-class InspirationViewController: BaseViewController {
+final class InspirationViewController: BaseViewController {
     
     private lazy var collectionView: UICollectionView = {
         let collectionView = makeCollectionView(with: .grid, and: .inspirationCollectionViewCell)
@@ -62,7 +62,7 @@ extension InspirationViewController: UICollectionViewDataSource {
     }
 }
 
-extension InspirationViewController {
+private extension InspirationViewController {
     func setupViews() {
         searchBar.becomeFirstResponder()
         searchBar.sizeToFit()
@@ -96,7 +96,7 @@ extension InspirationViewController: UISearchBarDelegate {
     }
 }
 
-extension InspirationViewController {
+private extension InspirationViewController {
     func setupCollectionViewConstraints() {
         collectionView.translatesAutoresizingMaskIntoConstraints = false
         searchBar.translatesAutoresizingMaskIntoConstraints = false

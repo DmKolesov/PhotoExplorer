@@ -10,7 +10,8 @@ import Foundation
 protocol NetworkErrorLogger {
     func log(error: Error)
 }
-class DefaultNetworkErrorLogger: NetworkErrorLogger {
+
+final class DefaultNetworkErrorLogger: NetworkErrorLogger {
     func log(error: Error) {
         print("Network error: \(error.localizedDescription)")
     }

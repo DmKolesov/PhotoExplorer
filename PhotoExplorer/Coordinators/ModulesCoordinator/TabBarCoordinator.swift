@@ -22,7 +22,6 @@ final class TabBarCoordinator {
         if #available(iOS 13.0, *) {
             window.overrideUserInterfaceStyle = .light
         }
-        
         setupInspiration()
         setupFavorites()
         
@@ -68,7 +67,7 @@ private extension TabBarCoordinator {
         guard let navController = self.navigationControllers[.inspiration] else {
             fatalError("fatalError setupInspiration")
         }
- 
+        
         navController.setViewControllers([], animated: false)
         let inspirationVC = modulesFactory.createInspirationModule()
         
@@ -85,7 +84,7 @@ private extension TabBarCoordinator {
         guard let navController = self.navigationControllers[.favorite] else {
             fatalError("fatalError setupFavorites")
         }
-
+        
         let favoriteVC = modulesFactory.createFavoriteModule()
         navController.setViewControllers([favoriteVC], animated: false)
         favoriteVC.navigationItem.title = Resources.Strings.NavBar.favorite

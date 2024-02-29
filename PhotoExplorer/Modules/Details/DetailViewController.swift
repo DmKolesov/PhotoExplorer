@@ -7,7 +7,7 @@
 
 import UIKit
 
-class DetailViewController: BaseViewController {
+final class DetailViewController: BaseViewController {
     
     private lazy var collectionView: UICollectionView = {
         let collectionView = makeCollectionView(with: .full, and: .detailCollectionViewCell)
@@ -55,7 +55,7 @@ extension DetailViewController: UICollectionViewDataSource, UICollectionViewDele
     }
 }
 
-extension DetailViewController {
+private extension DetailViewController {
     func setupCollectionViewConstraints() {
         collectionView.translatesAutoresizingMaskIntoConstraints = false
         view.addSubview(collectionView)

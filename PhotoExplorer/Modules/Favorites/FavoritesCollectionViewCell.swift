@@ -7,7 +7,7 @@
 
 import UIKit
 
-class FavoritesCollectionViewCell: UICollectionViewCell {
+final class FavoritesCollectionViewCell: UICollectionViewCell {
     private let imageView = UIImageView()
     
     override init(frame: CGRect) {
@@ -24,7 +24,7 @@ class FavoritesCollectionViewCell: UICollectionViewCell {
     }
 }
 
-extension FavoritesCollectionViewCell {
+private extension FavoritesCollectionViewCell {
     private func setupUI() {
         imageView.translatesAutoresizingMaskIntoConstraints = false
         contentView.addSubview(imageView)

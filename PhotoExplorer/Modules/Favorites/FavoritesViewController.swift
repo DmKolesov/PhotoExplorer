@@ -7,7 +7,7 @@
 
 import UIKit
 
-class FavoritesViewController: BaseViewController {
+final class FavoritesViewController: BaseViewController {
     
     private lazy var collectionView: UICollectionView = {
         let collectionView = makeCollectionView(with: .list, and: .favoriteCollectionViewCell)
@@ -52,7 +52,7 @@ extension FavoritesViewController: UICollectionViewDataSource, UICollectionViewD
     }
 }
 
-extension FavoritesViewController {
+private extension FavoritesViewController {
     func setupViewsConstraints() {
         collectionView.translatesAutoresizingMaskIntoConstraints = false
         view.addSubview(collectionView)

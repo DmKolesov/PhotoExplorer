@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-class SceneDelegate: UIResponder, UIWindowSceneDelegate {
+final class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     
     private var tabBarCoordinator: TabBarCoordinator?
     var window: UIWindow?
