@@ -1,3 +1,36 @@
+Architecture
+
+- MVVM
+- Coordinator — navigation and routing management
+- Repository — data management through API and local storage (Realm)
+- Service Layer — network requests via Alamofire
+- Mappers — data transformation between layers
+
+Patterns
+
+- Factory
+- Delegate
+- Observer — UI updates via closures and properties
+- Protocol-Oriented Programming — interfaces for defining shared operations
+
+Dependencies
+
+- Alamofire — network requests
+- Kingfisher — image loading and caching
+- Realm — local storage for favorite photos, offline mode support
+
+UI
+
+- TabBarController with modules: Inspiration, Favorites, Detail
+- UICollectionView with custom cells, lazy loading, UICollectionViewFlowLayout
+- UISearchBar
+
+Overview
+
+- Image caching
+- Offline mode: access to favorite photos
+
+
 Архитектура
 
 - MVVM
