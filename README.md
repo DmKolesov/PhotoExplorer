@@ -4,14 +4,15 @@
 - Coordinator — маршрутизация и управление навигацией
 - Repository — управление данными через API и локальное хранилище (Realm)
 - Service Layer — выполнение сетевых запросов через Alamofire
-- Mappers — преобразование данных API в модели(domain
+- Mappers
 
 Паттерны
 
+- Factory
 - Delegate
 - Observer — обновление UI через замыкания и свойства
-Protocol-Oriented Programming — интерфейсы для определения общих операций
-Factory
+- Protocol-Oriented Programming — интерфейсы для определения общих операций
+
 
 Зависимости
 
@@ -22,10 +23,10 @@ Factory
 UI
 
 - TabBarController с модулями: Inspiration, Favorites, Detail
-UICollectionView cell, lazy loading, UICollectionViewFlowLayout
-UISearchBar
+- UICollectionView cell, lazy loading, UICollectionViewFlowLayout
+- UISearchBar
 
 Overview
 
-Кеширование изображений
-Офлайн-режим: доступ к избранным фотографиям
+- Кеширование изображений
+- Офлайн-режим: доступ к избранным фотографиям
