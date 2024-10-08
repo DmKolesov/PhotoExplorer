@@ -2,6 +2,7 @@
 
 ### Architecture
 
+- UIKit
 - MVVM
 - Coordinator — navigation and routing management
 - Repository — data management through API and local storage (Realm)
@@ -36,6 +37,7 @@
 
 ### Архитектура
 
+- UIKit
 - MVVM
 - Coordinator — маршрутизация и управление навигацией
 - Repository — управление данными через API и локальное хранилище (Realm)
