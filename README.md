@@ -1,37 +1,8 @@
-Architecture
+# PhotoExplorer
 
-- MVVM
-- Coordinator — navigation and routing management
-- Repository — data management through API and local storage (Realm)
-- Service Layer — network requests via Alamofire
-- Mappers — data transformation between layers
+## Описание (Description in Russian)
 
-Patterns
-
-- Factory
-- Delegate
-- Observer — UI updates via closures and properties
-- Protocol-Oriented Programming — interfaces for defining shared operations
-
-Dependencies
-
-- Alamofire — network requests
-- Kingfisher — image loading and caching
-- Realm — local storage for favorite photos, offline mode support
-
-UI
-
-- TabBarController with modules: Inspiration, Favorites, Detail
-- UICollectionView with custom cells, lazy loading, UICollectionViewFlowLayout
-- UISearchBar
-
-Overview
-
-- Image caching
-- Offline mode: access to favorite photos
-
-
-Архитектура
+### Архитектура
 
 - MVVM
 - Coordinator — маршрутизация и управление навигацией
@@ -39,27 +10,62 @@ Overview
 - Service Layer — выполнение сетевых запросов через Alamofire
 - Mappers
 
-Паттерны
+### Паттерны
 
 - Factory
 - Delegate
 - Observer — обновление UI через замыкания и свойства
 - Protocol-Oriented Programming — интерфейсы для определения общих операций
 
-
-Зависимости
+### Зависимости
 
 - Alamofire — сетевые запросы
 - Kingfisher — загрузка и кеширование изображений
 - Realm — локальное хранилище избранных фотографий, поддержка офлайн-режима
 
-UI
+### UI
 
 - TabBarController с модулями: Inspiration, Favorites, Detail
-- UICollectionView cell, lazy loading, UICollectionViewFlowLayout
+- UICollectionView с кастомными ячейками, ленивой загрузкой, UICollectionViewFlowLayout
 - UISearchBar
 
-Overview
+### Overview
 
 - Кеширование изображений
 - Офлайн-режим: доступ к избранным фотографиям
+
+---
+
+## Description (English)
+
+### Architecture
+
+- MVVM
+- Coordinator — navigation and routing management
+- Repository — data management through API and local storage (Realm)
+- Service Layer — network requests via Alamofire
+- Mappers
+
+### Patterns
+
+- Factory
+- Delegate
+- Observer — UI updates via closures and properties
+- Protocol-Oriented Programming — interfaces for defining shared operations
+
+### Dependencies
+
+- Alamofire — network requests
+- Kingfisher — image loading and caching
+- Realm — local storage for favorite photos, offline mode support
+
+### UI
+
+- TabBarController with modules: Inspiration, Favorites, Detail
+- UICollectionView with custom cells, lazy loading, UICollectionViewFlowLayout
+- UISearchBar
+
+### Overview
+
+- Image caching
+- Offline mode: access to favorite photos
